@@ -1,0 +1,146 @@
+{
+  "movies": [
+    {
+      "id": "movie-1",
+      "title": "beyond earth",
+      "path": "beyond-earth",
+      "published_year": 2019,
+      "category": "movie",
+      "rating": "PG",
+      "is_trending": true,
+      "is_recommended": false
+    },
+    {
+      "id": "movie-10",
+      "title": "earth's untouched",
+      "path": "beyond-earth",
+      "published_year": 2019,
+      "category": "movie",
+      "rating": "PG",
+      "is_trending": true,
+      "is_recommended": false
+    },
+    {
+      "id": "movie-2",
+      "title": "bottom gear",
+      "path": "bottom-gear",
+      "published_year": 2021,
+      "category": "movie",
+      "rating": "PG",
+      "is_trending": true,
+      "is_recommended": false
+    },
+    {
+      "id": "movie-3",
+      "title": "whispering hill",
+      "published_year": 2022,
+      "path": "whispering-hill",
+      "category": "movie",
+      "rating": "PG",
+      "is_trending": false,
+      "is_recommended": true
+    },
+    {
+      "id": "movie-4",
+      "title": "112",
+      "path": "112",
+      "published_year": 1995,
+      "category": "movie",
+      "rating": "PG",
+      "is_trending": false,
+      "is_recommended": true
+    },
+    {
+      "id": "movie-5",
+      "title": "1998",
+      "path": "1998",
+      "published_year": 1995,
+      "category": "movie",
+      "rating": "18+",
+      "is_trending": true,
+      "is_recommended": false
+    },
+    {
+      "id": "movie-6",
+      "title": "asia in 24 days",
+      "path": "asia-in-24-days",
+      "published_year": 2005,
+      "category": "movie",
+      "rating": "PG",
+      "is_trending": false,
+      "is_recommended": true
+    },
+    {
+      "id": "movie-7",
+      "title": "below echo",
+      "path": "below-echo",
+      "published_year": 2022,
+      "category": "movie",
+      "rating": "PG",
+      "is_trending": false,
+      "is_recommended": true
+    },
+    {
+      "id": "movie-8",
+      "title": "darker",
+      "path": "darker",
+      "published_year": 2022,
+      "category": "movie",
+      "rating": "PG",
+      "is_trending": false,
+      "is_recommended": true
+    }
+  ],
+  "tv": [
+    {
+      "id": "tv-1",
+      "title": "undiscovered cities",
+      "path": "undiscovered-cities",
+      "published_year": 2019,
+      "category": "TV Series",
+      "rating": "PG",
+      "is_trending": true,
+      "is_recommended": false
+    },
+    {
+      "id": "tv-2",
+      "title": "autosport the series",
+      "path": "autosport-the-series",
+      "published_year": 2005,
+      "category": "TV Series",
+      "rating": "PG",
+      "is_trending": false,
+      "is_recommended": true
+    },
+    {
+      "id": "tv-3",
+      "title": "dogs",
+      "path": "dogs",
+      "published_year": 2005,
+      "category": "TV Series",
+      "rating": "PG",
+      "is_trending": false,
+      "is_recommended": true
+    },
+    {
+      "id": "tv-4",
+      "title": "community of ours",
+      "path": "community-of-ours",
+      "published_year": 2010,
+      "category": "TV Series",
+      "rating": "PG",
+      "is_trending": false,
+      "is_recommended": true
+    },
+    {
+      "id": "tv-5",
+      "title": "darker side of the moon",
+      "path": "dark-side-of-the-moon",
+      "published_year": 2012,
+      "category": "TV Series",
+      "rating": "PG",
+      "is_trending": false,
+      "is_recommended": true
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "title": "beyond earth",
+    "published_year": 2019,
+    "category": "movie",
+    "rating": "PG",
+    "image_url": "/beyond-earth/trending"
+  },
+  {
+    "id": "2",
+    "title": "bottom gear",
+    "published_year": 2021,
+    "category": "movie",
+    "rating": "PG",
+    "image_url": "/bottom-gear/trending"
+  },
+  {
+    "id": "3",
+    "title": "undiscovered cities",
+    "published_year": 2019,
+    "category": "tv series",
+    "rating": "PG",
+    "image_url": "/undiscovered-cities/trending"
+  },
+  {
+    "id": "4",
+    "title": "whispering hill",
+    "published_year": 2022,
+    "category": "movie",
+    "rating": "PG",
+    "image_url": "/whispering-hill/trending"
+  }
+]

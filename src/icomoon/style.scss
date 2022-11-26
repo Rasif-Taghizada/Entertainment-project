@@ -1,0 +1,85 @@
+@import "variables";
+
+@font-face {
+  font-family: '#{$icomoon-font-family}';
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?36wfhc');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?36wfhc#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?36wfhc') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?36wfhc') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?36wfhc##{$icomoon-font-family}') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: '#{$icomoon-font-family}' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-icon-bookmark-empty {
+  &:before {
+    content: $icon-icon-bookmark-empty; 
+  }
+}
+.icon-icon-bookmark-full {
+  &:before {
+    content: $icon-icon-bookmark-full; 
+  }
+}
+.icon-icon-category-movie {
+  &:before {
+    content: $icon-icon-category-movie; 
+  }
+}
+.icon-icon-category-tv {
+  &:before {
+    content: $icon-icon-category-tv; 
+  }
+}
+.icon-icon-nav-bookmark {
+  &:before {
+    content: $icon-icon-nav-bookmark; 
+  }
+}
+.icon-icon-nav-home {
+  &:before {
+    content: $icon-icon-nav-home; 
+  }
+}
+.icon-icon-nav-movies {
+  &:before {
+    content: $icon-icon-nav-movies; 
+  }
+}
+.icon-icon-nav-tv-series {
+  &:before {
+    content: $icon-icon-nav-tv-series; 
+  }
+}
+.icon-icon-play {
+  &:before {
+    content: $icon-icon-play; 
+  }
+}
+.icon-icon-search {
+  &:before {
+    content: $icon-icon-search; 
+  }
+}
+.icon-logo {
+  &:before {
+    content: $icon-logo; 
+  }
+}
+
